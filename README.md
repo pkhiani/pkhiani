@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there! I'm Pavan 👋
 
 <!--
 **pkhiani/pkhiani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I am currently a Second Year Business and Computer Science student at UBC. 
+
+⚡ I have an interest in Data Science, Product Management, and Technology Consulting. 
+
+📫 You can reach me anytime at pavan.khiani@gmail.com, or on [LinkedIn](https://www.linkedin.com/in/pavan-khiani/)
