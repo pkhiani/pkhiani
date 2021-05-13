@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I am currently a Second Year Business and Computer Science student at UBC. 
+🔭 I am currently a Third Year Business and Computer Science student at UBC. 
 
 ⚡ I have an interest in Data Analytics, Product Management, and Technology Consulting. 
 
