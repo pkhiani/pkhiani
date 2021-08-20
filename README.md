@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 ⚡ I have an interest in Data Analytics, Product Management, and Technology Consulting. 
 
 📫 You can reach me anytime at pavan.khiani@gmail.com, or on [LinkedIn](https://www.linkedin.com/in/pavan-khiani/)
+
+[![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pkhiani)](https://github.com/anuraghazra/github-readme-stats)
+
