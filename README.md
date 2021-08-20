@@ -21,5 +21,6 @@ Here are some ideas to get you started:
 
 📫 You can reach me anytime at pavan.khiani@gmail.com, or on [LinkedIn](https://www.linkedin.com/in/pavan-khiani/)
 
-[![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pkhiani)](https://github.com/anuraghazra/github-readme-stats)
+[![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pkhiani&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
