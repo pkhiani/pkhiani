@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I am currently a Senior studying Business and Computer Science at UBC. 
+🔭 I am currently a senior studying Business and Computer Science at UBC. 
 
 ⚡ I have an interest in cloud architecture and product management.
 
@@ -24,6 +24,4 @@ Here are some ideas to get you started:
 [![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pkhiani&show_icons=true&theme=buefy&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pkhiani&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
