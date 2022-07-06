@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I am currently a Third Year Business and Computer Science student at UBC. 
+🔭 I am currently a Senior studying Business and Computer Science at UBC. 
 
-⚡ I have an interest in cloud architecture, technology consulting, and product management.
+⚡ I have an interest in cloud architecture and product management.
 
 📫 You can reach me anytime at pavan.khiani@gmail.com, or on [LinkedIn](https://www.linkedin.com/in/pavan-khiani/)
 
