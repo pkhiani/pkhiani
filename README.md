@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🔭 Senior studying CS & Business @ UBC
 
-⚡ Interest in Product Management, playing around with Gen-AI.
+⚡ Interest in Product Management, playing around with Gen-AI
 
 📫 pavan.khiani@gmail.com
 
