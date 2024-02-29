@@ -23,7 +23,5 @@ Here are some ideas to get you started:
 
 💬 [LinkedIn](https://www.linkedin.com/in/pavan-khiani/)
 
-[![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pkhiani&show_icons=true&theme=buefy&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pkhiani&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
