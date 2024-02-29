@@ -15,11 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 I am currently a senior studying Business and Computer Science at UBC. 
+🔭 Senior studying CS & Business @ UBC
 
-⚡ I have an interest in cloud architecture and product management.
+⚡ Interest in Product Management, playing around with Gen-AI.
 
-📫 You can reach me anytime at pavan.khiani@gmail.com, or on [LinkedIn](https://www.linkedin.com/in/pavan-khiani/)
+📫 pavan.khiani@gmail.com
+
+💬 [LinkedIn](https://www.linkedin.com/in/pavan-khiani/)
 
 [![Pavan's GitHub stats](https://github-readme-stats.vercel.app/api?username=pkhiani&show_icons=true&theme=buefy&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
 
