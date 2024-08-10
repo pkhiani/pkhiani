@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 Senior studying CS & Business @ UBC
+🔭 CS & Business @ UBC Graduate
 
 ⚡ Interest in Product Management, playing around with Gen-AI
 
