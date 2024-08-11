@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🔭 CS & Business @ UBC Graduate
 
-⚡ Interest in Product Management, playing around with Gen-AI
+⚡ Product Manager
 
 📫 pavan.khiani@gmail.com
 
