@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 CS & Business @ UBC Graduate
+🔭 CS & Business @ UBC
 
 ⚡ Product Manager
 
