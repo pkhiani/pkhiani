@@ -19,9 +19,7 @@ Here are some ideas to get you started:
 
 ⚡ Product Manager
 
-📫 pavan.khiani@gmail.com
-
-💬 [LinkedIn](https://www.linkedin.com/in/pavan-khiani/)
+📫 [linktree](https://linktr.ee/pavankhiani)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pkhiani&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
