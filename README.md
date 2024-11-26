@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pkhiani&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
 🔭 CS & Business @ UBC
@@ -21,5 +23,5 @@ Here are some ideas to get you started:
 
 📫 [linktree](https://linktr.ee/pavankhiani)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pkhiani&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
