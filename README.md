@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pkhiani&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-🔭 CS & Business @ UBC
+🔭 CS & Business @ UBC Grad
 
 ⚡ Product Manager
 
