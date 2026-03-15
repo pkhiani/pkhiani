@@ -1,4 +1,4 @@
-### Hi there! I'm Pavan 👋
+### Hey, I'm Pavan 👋
 
 <!--
 **pkhiani/pkhiani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,11 +17,31 @@ Here are some ideas to get you started:
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pkhiani&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-🔭 CS & Business @ UBC Grad
+Product builder at the intersection of **AI, fintech, and consumer software**.
 
-⚡ Product Manager
+🎓 CS & Business @ UBC  
+⚡ Product Manager who loves turning ideas into real products  
+🌍 Traveled to 35+ countries — curious about how technology scales globally  
 
-📫 [linktree](https://linktr.ee/pavankhiani)
+---
+
+### 🚀 What I'm Building
+
+- 📈 **[MarketMind](https://marketmind.trading)** – AI tool for stock market trade analysis, strategy testing, and signal aggregation
+- 🏆 **[Well Earned](https://apps.apple.com/us/app/well-earned-earn-screen-time/id6757367210)** – iOS habit and progress tracking with AI-driven reflections
+- 🧠 **[PM Prep](https://pmprep.xyz)** - AI-powered toolkit for mastering product management interviews and frameworks.
+
+---
+
+### 🛠 Tech + Tools
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pkhiani&hide_progress=true)
+
+---
+
+### 📫 Find Me
+
+🌐 [linktree](https://linktr.ee/pavankhiani)
 
 
 
