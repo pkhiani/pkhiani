@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 Product builder at the intersection of **AI, fintech, and consumer software**.
 
 🎓 CS & Business @ UBC  
-⚡ Product Manager who turnes personal pain points into real products  
+⚡ Product Manager who turns personal pain points into real products  
 🌍 Traveled to 35+ countries — curious about how technology scales globally  
 
 ---
