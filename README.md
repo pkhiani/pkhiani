@@ -33,12 +33,6 @@ Product builder at the intersection of **AI, fintech, and consumer software**.
 
 ---
 
-### 🛠 Tech + Tools
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pkhiani&hide_progress=true)
-
----
-
 ### 📫 Find Me
 
 🌐 [linktree](https://linktr.ee/pavankhiani)
