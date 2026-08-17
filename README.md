@@ -27,9 +27,9 @@ Product builder at the intersection of **AI, fintech, and consumer software**.
 
 ### 🚀 What I'm Building
 
-- 📈 **[MarketMind](https://marketmind.trading)** – AI tool for stock market trade analysis, strategy testing, and signal aggregation
-- 🏆 **[Well Earned](https://apps.apple.com/us/app/well-earned-earn-screen-time/id6757367210)** – iOS habit and progress tracking with AI-driven reflections
-- 🧠 **[PM Prep](https://pmprep.xyz)** - AI-powered toolkit for mastering product management interviews and frameworks.
+- 📈 **[Asymmetrix](https://asymmetrix.xyz)** – AI tool that surfaces social signals and stock market trade analysis.
+- 🏆 **[Well Earned](https://apps.apple.com/us/app/well-earned-earn-screen-time/id6757367210)** – iOS habit tracker and screen time blocker
+- 🧠 **[PM Prep](https://pmprep.xyz)** - Toolkit for mastering product management interviews and frameworks.
 
 ---
 
