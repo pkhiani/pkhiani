@@ -28,7 +28,7 @@ Product builder at the intersection of **AI, fintech, and consumer software**.
 ### 🚀 What I'm Building
 
 - 📈 **[Asymmetrix](https://asymmetrix.xyz)** – AI tool that surfaces social signals and stock market trade analysis.
-- 🏆 **[Well Earned](https://apps.apple.com/us/app/well-earned-earn-screen-time/id6757367210)** – iOS habit tracker and screen time blocker
+- 🏆 **[Well Earned](https://apps.apple.com/us/app/well-earned-earn-screen-time/id6757367210)** – iOS habit tracker and screen time blocker.
 - 🧠 **[PM Prep](https://pmprep.xyz)** - Toolkit for mastering product management interviews and frameworks.
 
 ---
