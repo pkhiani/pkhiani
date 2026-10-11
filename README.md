@@ -9,6 +9,16 @@ I'm a **product expert who builds monetizable products for industry experts and 
 
 ---
 
+### 💡 Why This Matters
+
+Anyone can vibe code an app now. Building is easy; **knowing what to build and how to make money from it** is still the hard part.
+
+AI coding tools will build whatever you ask for. But they don't know your audience, your market, or what people will actually pay for, and they rarely push back when the idea or the business model is wrong. Their direction is only as good as the context you give them.
+
+That's the part I bring: the product judgment from launching my own products, plus the speed of building with AI.
+
+---
+
 ### 🛠️ How I Help Experts & Creators
 
 1. **Find the product.** Validate demand, define the offer, and choose a pricing model your audience will pay for.
