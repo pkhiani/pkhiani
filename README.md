@@ -1,41 +1,30 @@
 ### Hey, I'm Pavan 👋
 
-<!--
-**pkhiani/pkhiani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **product expert who builds monetizable products for industry experts and creators**: people with deep knowledge or a loyal audience who want a product that turns it into revenue.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pkhiani&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
--->
-
-Product builder at the intersection of **AI, fintech, and consumer software**.
-
-🎓 CS & Business @ UBC  
-⚡ Product Manager who turns personal pain points into real products  
-🌍 Traveled to 35+ countries — curious about how technology scales globally  
+🧭 I take products from idea to launch to revenue: strategy, design, build, pricing  
+🤖 I ship fast with AI: tools, web apps, mobile apps, paid platforms  
+🎓 CS & Business @ UBC · Product Manager by background  
+🌍 35+ countries traveled · I create content too, so I know the creator side firsthand  
 
 ---
 
-### 🚀 What I'm Building
+### 🛠️ How I Help Experts & Creators
 
-- 📈 **[Asymmetrix](https://asymmetrix.xyz)** – AI tool that surfaces social signals and stock market trade analysis.
-- 🏆 **[Well Earned](https://apps.apple.com/us/app/well-earned-earn-screen-time/id6757367210)** – iOS habit tracker and screen time blocker.
-- 🧠 **[PM Prep](https://pmprep.xyz)** - Toolkit for mastering product management interviews and frameworks.
+1. **Find the product.** Validate demand, define the offer, and choose a pricing model your audience will pay for.
+2. **Build it fast.** Ship an MVP in weeks, not quarters.
+3. **Launch & monetize.** Payments, subscriptions, onboarding, analytics, and an iteration loop that drives recurring revenue.
 
 ---
 
-### 📫 Find Me
+### 🚀 Products I've Shipped
 
-🌐 [linktree](https://linktr.ee/pavankhiani)
+- 📈 **[Asymmetrix](https://asymmetrix.xyz)**: AI stock research that surfaces social signals and trade analysis to find 10x stocks early. *Investing research turned into an AI tool.*
+- 🧠 **[PM Prep](https://pmprep.xyz)**: Practice real product management interview scenarios with personalized feedback. *PM know-how turned into a self-serve platform.*
+- 🏆 **[Well Earned](https://apps.apple.com/us/app/well-earned-earn-screen-time/id6757367210)**: iOS habit tracker and screen time blocker where you earn your screen time.
 
+---
 
+### 📫 Have expertise or an audience? Let's build your product.
 
+💼 [LinkedIn](https://www.linkedin.com/in/pavan-khiani/) · 🔗 [linktree](https://linktr.ee/pavankhiani)
